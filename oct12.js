@@ -25,5 +25,5 @@ for (var i = 1; i <= num; i++) {
 
 }
 
-console.log(fizzBuzz(4), '1, 2, fizz, 4')
-console.log(fizzBuzz(3), '1, 2, fizz')
+fizzBuzz(16)// '1, 2, fizz, 4'
+fizzBuzz(3)// '1, 2, fizz'
