@@ -1,0 +1,22 @@
+{
+  "name": "huntober",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arrayDay1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheDevNick/huntober.git"
+  },
+  "author": "Nick A Hollins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheDevNick/huntober/issues"
+  },
+  "homepage": "https://github.com/TheDevNick/huntober#readme",
+  "devDependencies": {
+    "jest": "^29.2.0"
+  }
+}
